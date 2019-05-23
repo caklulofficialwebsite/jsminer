@@ -6,7 +6,7 @@ at https://webminepool.com
 |     Script     |
 ------------------
 
-var = miner.WMP.User('[sitekey]', '[username]'){
+var miner = WMP.User('[sitekey]', '[username]'){
 [options];
 }
 [instance];
