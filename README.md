@@ -1,6 +1,6 @@
 # miner
 
-at webminepool.com
+at https://webminepool.com
 
 ------------------
 |     Script     |
